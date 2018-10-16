@@ -2,7 +2,6 @@
 ***
 ___Projektname___: HelpingPaper
 ___Team___ : Holzinger Nina, Milic Maria, Golic Benjamin
-![alt text](/Desktop/EPaperInBilderrahmen.jpg "Logo Title Text 1")
 ***
 ## *Ausgangssituation*
 Wer kennt es nicht? Man sitzt am Wochenende vor dem Schreibtisch und fragt sich was man alles für die Schule machen muss.Oder an möchte in die Stadt fahren und man fragt sich wann die nächste Bim oder wann der nächste Bus fährt.
