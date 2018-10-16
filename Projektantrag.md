@@ -32,3 +32,5 @@ Es verschafft einem einen besseren Überblick über alle AUfgaben, da man meiste
 - Waveshare 7.5 Zoll E-Paper Display
 - SD Card (Raspbian installiert)
 - 13x18 cm Bilderrahmen
+
+---
